@@ -1,9 +1,52 @@
 body	{
-	background: grey;
+	background: white;
+}
+
 }
 div	.AMD	{
 	background: green;
-	padding: 20px;
-	margin: 20px;
+
+	padding: 50px;
+	margin: 50px;
 	
+}
+body header .section1{
+	background: grey;
+	position:relative;
+	padding: 30px;
+	margin: 30px;
+}
+header .section2{
+	background: green;
+	position: relative;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+}
+header > li{
+	font-size: 30px;
+	text-align: left;
+	line-height: 100px;
+}
+h1{
+	font-size: 30px;
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	line-height: 50px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+}
+h2{
+	font-size: 25px;
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	line-height: 40px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	word-spacing: 10px;
 }
