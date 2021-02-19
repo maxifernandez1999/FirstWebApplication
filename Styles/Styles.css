@@ -6,12 +6,13 @@ aside div {
 }
 aside .AMD,.Aorus,.Asus,.HP,.Lenovo,.NVidia,
 .Linux,.ROG,.Windows	{
-	background: green;
+	background: rgb(65, 174, 207);
 	position:relative;
-	padding: 15px;
-	margin: 20px;
+	padding: 10px;
+	margin: 10px;
 	
 }
+
 body header .section1{
 	background: rgb(93, 111, 192);
 	position:relative;
